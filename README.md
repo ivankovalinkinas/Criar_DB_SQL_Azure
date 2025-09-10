@@ -88,6 +88,11 @@ Após conectar, execute a query:
 SELECT @@VERSION;
 ```
 
+Sua saída será algo como o apresentado abaixo:
+```
+Microsoft SQL Azure (RTM) - 12.0.xxxxx ...
+```
+
 ---
 
 ## 📖 Referências
